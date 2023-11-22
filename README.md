@@ -48,7 +48,7 @@
 
 > <a href="https://drive.google.com/file/d/1lZOa-FxqcZ5E4z15cQDD2y9ww1b8-kZc/view?usp=sharing">Ссылка на проект скрин 2</a>
 
-> <a href="https://drive.google.com/drive/folders/1OdJwGfmhb0sTdjuDtafApWwsxrBUsWbl">Ссылка на проект скрин 3</a>
+> <a href="https://drive.google.com/file/d/1JD_isnC1wbp33064-Iv_ezsNaFhT5BU8/view?usp=sharing">Ссылка на проект скрин 3</a>
 
  <p>Выводы (итоги):<p>
 <ol>
