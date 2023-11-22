@@ -44,4 +44,18 @@
 <p>Как решал: краткое описание решения <p>
 С помощью CTE запросов и конструкции with , объединил, отфильтровал и отредактировал те данные которые нужны были для нашей задачи. 
 
-> <a href="https://drive.google.com/file/d/1Nxgu4WaNSyCtCK5Pnfhw9jFFjWD95FfQ/view?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/file/d/1Nxgu4WaNSyCtCK5Pnfhw9jFFjWD95FfQ/view?usp=sharing">Ссылка на проект скрин 1</a>
+
+> <a href="https://drive.google.com/file/d/1lZOa-FxqcZ5E4z15cQDD2y9ww1b8-kZc/view?usp=sharing">Ссылка на проект скрин 2</a>
+
+> <a href="https://drive.google.com/drive/folders/1OdJwGfmhb0sTdjuDtafApWwsxrBUsWbl">Ссылка на проект скрин 3</a>
+
+ <p>Выводы (итоги):<p>
+<ol>
+  <li>Итог №1</li>
+  <li>Итог №2</li>
+</ol>
+
+
+## Контактная информация
+- Email Nikykpb@yandex.ru
