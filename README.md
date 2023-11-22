@@ -24,8 +24,7 @@
 <p>Как решал: краткое описание решения<p>
 Определил, что является юнитом. Создал калькулятор, так же рассчитал сценарий при котором маржинальность выросла до 25 %
 
-> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://docs.google.com/spreadsheets/d/16eZ6BzA1MOuSPZj1SwoKfRIWcQpXvBau/edit?usp=sharing&ouid=112101794180300010259&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/16eZ6BzA1MOuSPZj1SwoKfRIWcQpXvBau/edit?usp=sharing&ouid=112101794180300010259&rtpof=true&sd=true">Ссылка на проект</a>
-https://drive.google.com/file/d/1YkQkQTvkrN27b2HuU-sYtkmNQza-X3Et/view?usp=sharing
+> <a href="https://docs.google.com/spreadsheets/d/16eZ6BzA1MOuSPZj1SwoKfRIWcQpXvBau/edit?usp=sharing&ouid=112101794180300010259&rtpof=true&sd=true">Ссылка на проект</a>
 
 
 
