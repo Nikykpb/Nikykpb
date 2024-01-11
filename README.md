@@ -57,4 +57,5 @@
 
 
 ## Контактная информация
-- Email Nikykpb@yandex.ru
+- +79991728386 (предпочитаемый способ связи)
+- - Email Nikykpb@yandex.ru
